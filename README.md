@@ -9,7 +9,7 @@
 - 🥅 I'm interested in learning Flutter or React Native, and C#.
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username={GAPV-Coder}&theme=blue-green" width="350"></a>
 </p>
 
 ### :zap: Recent Activity
